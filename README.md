@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋          Welcome to my profile!
 
 - 📍🗺️ Living on Brazil.
 - 🔭 I’m currently working on back-end.
@@ -35,6 +35,3 @@
   </tr>
 </div>
 
-<p>
-  Conections
-</p>
