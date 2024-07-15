@@ -8,7 +8,7 @@
 - 📫 How to reach me: brasanicolas27@gmail.com
 
 <div class="stats">
-
+<table>
   <tr>
     <td>
       <img
@@ -20,19 +20,21 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Nickyase&theme=dark&hide_border=false"
-        alt="Github Stats"
-        />
-    </td
-    <br>
-    <td>
-       <img
-        align="center"
+        height="200px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickyase&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Nickyase&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
   </tr>
+</table>
 
 </div>
   
