@@ -8,7 +8,6 @@
 - 📫 How to reach me: brasanicolas27@gmail.com
 
 <div class="stats">
-
   <tr>
     <td>
       <img
@@ -34,9 +33,8 @@
       />
     </td>
   </tr>
-
-
 </div>
 
-## Conections
-
+<p>
+  Conections
+</p>
