@@ -2,15 +2,16 @@
 
 - 📍🗺️ Living on Brazil.
 - 🔭 I’m currently working on back-end.
-- 🌱 I’m currently learning python, SQL & JAVA.
+- 🌱 I’m currently learning Python, MySQL & JAVA.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with search a job.
 
-## 📫 How to reach me: 
+ ## 📫 How to reach me: 
   <div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nícolas-sobreira/)
-[![E-mail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:brasanicolas27@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brasanicolas27@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@nickke6772/)
 <br>
 [![GitHub](https://img.shields.io/github/followers/Nickyase?label=follow&style=social)](https://github.com/Nickyase)
 
