@@ -22,16 +22,16 @@
     </td>
     <td>
       <img
-        align="right"
+        align="center"
+        height="200px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickyase&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
     <td>
-      <br />
       <img
-        align="right"
-        height="150px"
+        align="left"
+        height="200px"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Nickyase&theme=dark&hide_border=false"
         alt="Github Stats"
       />
