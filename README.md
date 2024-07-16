@@ -5,8 +5,12 @@
 - 🌱 I’m currently learning python, SQL & JAVA.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with search a job.
-- 📫 How to reach me: brasanicolas27@gmail.com
+- 📫 How to reach me: 
+  <div>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nícolas-sobreira/)
+[![E-mail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:brasanicolas27@gmail.com)
+</div>
 <div class="stats">
   <tr>
     <td>
