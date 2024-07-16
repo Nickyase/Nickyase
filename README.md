@@ -12,7 +12,6 @@
 [![E-mail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:brasanicolas27@gmail.com)
 </div>
 
-<div>
   <tr>
     <td>
       <img
@@ -21,8 +20,6 @@
         alt="Github Stats"
       />
     </td>
-</div>
-<div>
     <td>
       <img
         align="left"
@@ -30,17 +27,15 @@
         alt="Github Stats"
       />
     </td>
-</div>
-<div>
     <td>
       <br />
       <img
-        align="left"
+        align="right"
         height="150px"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Nickyase&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
   </tr>
-</div>
+
 
