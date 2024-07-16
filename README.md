@@ -11,7 +11,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nícolas-sobreira/)
 [![E-mail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:brasanicolas27@gmail.com)
 </div>
-<div class="stats">
+
+<div>
   <tr>
     <td>
       <img
@@ -20,6 +21,8 @@
         alt="Github Stats"
       />
     </td>
+</div>
+<div>
     <td>
       <img
         align="left"
@@ -27,6 +30,8 @@
         alt="Github Stats"
       />
     </td>
+</div>
+<div>
     <td>
       <br />
       <img
