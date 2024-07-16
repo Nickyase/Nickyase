@@ -30,17 +30,20 @@
     <td>
       <img
         align="left"
+        height="190px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickyase&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
+</table>
     <td>
       <img
         align="center"
+        height="150px"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Nickyase&theme=merko&hide_border=false"
         alt="Github Stats"
       />
     </td>
   </tr>
-</table>
+
 
