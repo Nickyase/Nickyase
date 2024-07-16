@@ -40,7 +40,7 @@
 </table>
     <td>
       <img
-        align="center"
+        align="left"
         height="150px"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Nickyase&theme=merko&hide_border=false"
         alt="Github Stats"
