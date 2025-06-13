@@ -24,7 +24,7 @@
     <td>
       <img
         align="left"
-        height="160px"
+        height="110px"
         src="https://github-readme-stats.vercel.app/api?username=Nickyase&theme=midnight-purple&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
@@ -32,7 +32,7 @@
     <td>
       <img
         align="left"
-        height="160px"
+        height="110px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickyase&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
@@ -41,7 +41,7 @@
     <td>
       <img
         align="left"
-        height="150px"
+        height="110px"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Nickyase&theme=midnight-purple&hide_border=false"
         alt="Github Stats"
       />
