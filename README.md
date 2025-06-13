@@ -37,7 +37,6 @@
         alt="Github Stats"
       />
     </td>
-</table>
     <td>
       <img
         align="left"
@@ -47,5 +46,5 @@
       />
     </td>
   </tr>
-
+</table>
 
